@@ -1,0 +1,656 @@
+{
+ "generatedAt": "2026-09-16T09:37:33.579Z",
+ "count": 65,
+ "deadlines": [
+  {
+   "programme": "LASR Labs Winter 2027",
+   "dueIso": "2026-09-20",
+   "status": "open",
+   "cohort": "Jan 11 – Apr 9, 2027 (13 wks; Week 0 = project evaluation + team matching)",
+   "location": "London, UK (in-person, LISA Office)",
+   "stipend": "£15,000 + food + office space + flights",
+   "source": "lasrlabs.org",
+   "note": "Stated in GMT — check your own offset."
+  },
+  {
+   "programme": "Iliad November 2026 Intensive",
+   "dueIso": "2026-09-28",
+   "status": "open",
+   "cohort": "Nov 2–27, 2026",
+   "location": "London, UK / LISA (in-person)",
+   "stipend": "$5,000 travel/housing total",
+   "source": "iliad.ac/intensive + LessWrong \"Announcing: Iliad's Fall 2026 Programs\" (2026-05-30)",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "MATS Residency (NEW program — distinct from the fellowship)",
+   "dueIso": "2026-10-31",
+   "status": "open",
+   "cohort": "6–24 months, rolling starts from early 2027; three intake windows/yr",
+   "location": "London / Berkeley / Washington DC (hybrid, ≥⅓ in-person)",
+   "stipend": "$155,000–$285,000/yr gross (salaried, not a stipend) + health/dental/vision/life, 401k or pension, 17–20d PTO, conferenc",
+   "source": "matsprogram.org/residency + /residency/apply",
+   "note": null
+  },
+  {
+   "programme": "MATS Summer 2027",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jun–Aug 2027",
+   "location": "Berkeley + London",
+   "stipend": "$1,250/wk + $2K/wk compute",
+   "source": "matsprogram.org",
+   "note": null
+  },
+  {
+   "programme": "Astra Fellowship (next cycle)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "est. next cohort ~2027 (Berkeley, in-person)",
+   "location": "Berkeley, CA (in-person)",
+   "stipend": "$8,400/mo + ~$15K/mo compute",
+   "source": "constellation.org/programs/astra-fellowship",
+   "note": null
+  },
+  {
+   "programme": "OpenAI Safety Fellowship (2027 cycle)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "est. Sep 2027 – Feb 2028",
+   "location": "Berkeley / Constellation + remote",
+   "stipend": "stipend + compute + API credits",
+   "source": "alignment.openai.com/safety-fellowship",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Fellowship (summer cohort) 2027",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "est. Jun–Sep 2027",
+   "location": "London/Europe (in-person; remote for exceptional)",
+   "stipend": "$4K/mo + $1K/mo housing + meals",
+   "source": "princint.ai/programs/fellowship",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Gradual Disempowerment Track 2027",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jun–Sep 2027",
+   "location": "London (in-person; remote possible)",
+   "stipend": "same as PIBBSS Fellowship",
+   "source": "princint.ai/programs/fellowship",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Affiliateship",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "6–12 months",
+   "location": "TBD",
+   "stipend": "$6,000–10,000/mo",
+   "source": "princint.ai/programs/affiliates",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Cooperative AI Track 2027",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jun–Sep 2027",
+   "location": "London, UK (in-person; remote possible)",
+   "stipend": "$4K/mo + $1K/mo housing + meals",
+   "source": "princint.ai/programs/fellowship",
+   "note": null
+  },
+  {
+   "programme": "Apollo Research",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "London, UK",
+   "stipend": "not listed",
+   "source": "apolloresearch.ai/careers",
+   "note": null
+  },
+  {
+   "programme": "METR",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "Berkeley, CA",
+   "stipend": "not listed",
+   "source": "metr.org/careers",
+   "note": null
+  },
+  {
+   "programme": "LASR 2027 cycle",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jul–Oct 2027 (est.)",
+   "location": "London, UK",
+   "stipend": "£11,000",
+   "source": "lasrlabs.org",
+   "note": null
+  },
+  {
+   "programme": "Constellation Visiting Fellowship",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "3–6 months",
+   "location": "Berkeley, CA (in-person)",
+   "stipend": "not specified",
+   "source": "constellation.org/programs/visiting-fellowship",
+   "note": null
+  },
+  {
+   "programme": "CHAI Research Fellowship",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "2 years (renewable to 3)",
+   "location": "UC Berkeley",
+   "stipend": "negotiated (UC Berkeley scales)",
+   "source": "humancompatible.ai/jobs",
+   "note": null
+  },
+  {
+   "programme": "Schmidt Sciences Fellow in Residence, AI Institute",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "unknown",
+   "location": "New York, NY",
+   "stipend": "unknown",
+   "source": "jobs.lever.co/schmidt-entities/c42b4c52…",
+   "note": null
+  },
+  {
+   "programme": "Anthropic AI Security Fellow",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "unknown",
+   "location": "Multiple / Remote allowed",
+   "stipend": "unknown",
+   "source": "greenhouse.io/anthropic/5030244008",
+   "note": null
+  },
+  {
+   "programme": "RAND AI & Biosecurity Research Resident",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "Various US / Remote",
+   "stipend": "not listed",
+   "source": "rand.wd5.myworkdayjobs.com",
+   "note": null
+  },
+  {
+   "programme": "RAND CAST Fellows (Center on AI, Security and Technology)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "SF Bay Area + DC metro + UK",
+   "stipend": "not listed",
+   "source": "rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html",
+   "note": null
+  },
+  {
+   "programme": "Sentient Futures Residency",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "unknown",
+   "location": "SF Bay Area",
+   "stipend": "unknown",
+   "source": "sentientfutures.org",
+   "note": null
+  },
+  {
+   "programme": "CLR Summer Research Fellowship 2027",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "~8 weeks, summer 2027",
+   "location": "London, UK (+ remote)",
+   "stipend": "£4,925/mo",
+   "source": "longtermrisk.org/summer-research-fellowship",
+   "note": null
+  },
+  {
+   "programme": "CLR Research Affiliates Program",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "Oxford, UK + remote (global)",
+   "stipend": "not listed",
+   "source": "longtermrisk.org/programs/research-affiliates",
+   "note": null
+  },
+  {
+   "programme": "Talos Network AI Policy Leaders Programme",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "unknown",
+   "location": "Brussels, Belgium (in-person)",
+   "stipend": "not listed",
+   "source": "talosnetwork.org/policy-leaders-programme",
+   "note": null
+  },
+  {
+   "programme": "Cambridge ERA:AI Fellowship",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "10 weeks (summer)",
+   "location": "Cambridge, UK (in-person)",
+   "stipend": "£34,125/yr prorated + accommodation, meals, visa support, travel",
+   "source": "erafellowship.org/fellowship",
+   "note": null
+  },
+  {
+   "programme": "ERA AIxBiosecurity Fellowship",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jan 18 – Mar 26, 2027 (est.)",
+   "location": "Cambridge, UK (in-person; est.)",
+   "stipend": "not published",
+   "source": "erafellowship.org/fellowship",
+   "note": null
+  },
+  {
+   "programme": "ERA AI Security Residency",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "TBD",
+   "location": "Cambridge, UK (est.)",
+   "stipend": "not published",
+   "source": "erafellowship.org/fellowship",
+   "note": null
+  },
+  {
+   "programme": "MARS — Cambridge AI Safety Hub",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "MARS V: Jul 13–26 in-person + 8–10 wks remote (Jul–Oct 2026); MARS VI: Dec 2026",
+   "location": "Cambridge, UK (hybrid)",
+   "stipend": "unpaid; covers travel, accommodation, meals, compute ($2k+), Claude Max",
+   "source": "caish.org/mars",
+   "note": null
+  },
+  {
+   "programme": "AI Safety Camp",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jan–Apr 2027 (~3 mo)",
+   "location": "remote (team-based)",
+   "stipend": "unpaid",
+   "source": "aisafety.camp",
+   "note": null
+  },
+  {
+   "programme": "BlueDot Impact Incubator Week — Cohort 5",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "Jul 20–25, 2026 (5 days)",
+   "location": "London, UK (in-person)",
+   "stipend": "$50K equity-free funding + expert mentorship",
+   "source": "bluedot.org/programs/incubator-week",
+   "note": null
+  },
+  {
+   "programme": "FAR.AI / FAR Labs",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "Berkeley, CA",
+   "stipend": "not listed",
+   "source": "far.ai/careers",
+   "note": null
+  },
+  {
+   "programme": "Redwood Research",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "ongoing",
+   "location": "Berkeley, CA",
+   "stipend": "not listed",
+   "source": "redwoodresearch.org/careers",
+   "note": null
+  },
+  {
+   "programme": "10a Labs AI Safety Fellow",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "part-time ~20h/wk",
+   "location": "Washington DC (remote, US work auth only)",
+   "stipend": "$25–32.50/hr",
+   "source": "job-boards.greenhouse.io/10alabs/jobs/4007350009",
+   "note": null
+  },
+  {
+   "programme": "10a Labs Red Teaming Fellow",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "part-time ~20h/wk",
+   "location": "Washington DC (remote, US work auth only)",
+   "stipend": "$25–32.50/hr",
+   "source": "job-boards.greenhouse.io/10alabs/jobs/4273684009",
+   "note": null
+  },
+  {
+   "programme": "SAIGE Incubator (next cohort)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "~3 mo part-time, 10–20h/wk + optional 3-mo extension",
+   "location": "Remote-first (Germany-focused; German nationals/residents)",
+   "stipend": "not listed",
+   "source": "safeaigermany.org/incubator",
+   "note": null
+  },
+  {
+   "programme": "SAIGE Incubator Spring 2026",
+   "dueIso": "2026-03-22",
+   "status": "closed",
+   "cohort": "Apr 27 – Jul 31, 2026 (core) + optional 3-mo extension",
+   "location": "Remote-first (Germany)",
+   "stipend": "not listed",
+   "source": "safeaigermany.org/incubator",
+   "note": null
+  },
+  {
+   "programme": "OpenAI Safety Fellowship (2026 cycle)",
+   "dueIso": "2026-05-03",
+   "status": "closed",
+   "cohort": "Sep 14, 2026 – Feb 5, 2027",
+   "location": "Berkeley / Constellation + remote",
+   "stipend": "stipend (amount confirmed); compute + API credits + mentorship",
+   "source": "alignment.openai.com/safety-fellowship",
+   "note": null
+  },
+  {
+   "programme": "PRISM AI Safety Research Fellowship",
+   "dueIso": "2026-05-25",
+   "status": "closed",
+   "cohort": "16 weeks",
+   "location": "remote",
+   "stipend": "not listed",
+   "source": "prism-research.org",
+   "note": null
+  },
+  {
+   "programme": "MATS Autumn 2026",
+   "dueIso": "2026-06-07",
+   "status": "closed",
+   "cohort": "Sep 28 – Dec 4, 2026 (10 wks); evaluations Jun 7–late Jul; decisions late Jul–early Aug",
+   "location": "Berkeley, CA + London, UK",
+   "stipend": "$1,250/wk + $2K/wk compute; extension $7,680/mo + $8K/mo compute",
+   "source": "matsprogram.org/program/autumn-2026",
+   "note": null
+  },
+  {
+   "programme": "Stanford CISAC — AI in Strategic Stability Fellowship",
+   "dueIso": "2026-06-08",
+   "status": "closed",
+   "cohort": "2026–2027 academic year",
+   "location": "Stanford, CA (in-person)",
+   "stipend": "not listed",
+   "source": "cisac.fsi.stanford.edu/content/cisac-fellowship-program",
+   "note": null
+  },
+  {
+   "programme": "Stanford CISAC — Geopolitics of AI Fellowship",
+   "dueIso": "2026-06-08",
+   "status": "closed",
+   "cohort": "2026–2027 academic year",
+   "location": "Stanford, CA (in-person)",
+   "stipend": "not listed",
+   "source": "cisac.fsi.stanford.edu/content/cisac-fellowship-program",
+   "note": null
+  },
+  {
+   "programme": "BASE (Black in AI Safety & Ethics) Fellowship",
+   "dueIso": "2026-06-16",
+   "status": "closed",
+   "cohort": "Sep–Dec 2026 (13 wks, remote)",
+   "location": "remote",
+   "stipend": "unknown",
+   "source": "baseresearch.org/base-fellowship-f26",
+   "note": null
+  },
+  {
+   "programme": "Iliad August 2026 Intensive",
+   "dueIso": "2026-06-22",
+   "status": "closed",
+   "cohort": "Aug 10–28, 2026 (3 wks)",
+   "location": "Berkeley, CA (in-person)",
+   "stipend": "$5,000 travel/housing total",
+   "source": "iliad.ac",
+   "note": null
+  },
+  {
+   "programme": "ML4Good Technical Bootcamp",
+   "dueIso": "2026-07-01",
+   "status": "closed",
+   "cohort": "TECHNICAL: UK Sep 2–10 · France Sep 26–Oct 4 · Hong Kong Oct 17–25, 2026 (GOV & STRATEGY track is separate: France Sep 14–22 + Oct 19–27)",
+   "location": "UK + France + HK (in-person)",
+   "stipend": "not listed",
+   "source": "ml4good.org (deadline confirmed via EA Forum \"Summer 2026 Bootcamps\" post)",
+   "note": null
+  },
+  {
+   "programme": "GovAI U.S. AI Policy Program",
+   "dueIso": "2026-07-05",
+   "status": "closed",
+   "cohort": "Sep–Dec 2026 (12 wks, part-time ~5h/wk)",
+   "location": "US-based remote",
+   "stipend": "free, dinner provided",
+   "source": "governance.ai/post/govai-u-s-ai-policy-program",
+   "note": null
+  },
+  {
+   "programme": "Heron AI Security Research Fellowship",
+   "dueIso": "2026-07-08",
+   "status": "closed",
+   "cohort": "Sep–Nov 2026 (3 months)",
+   "location": "Remote-first; hubs in London, Tel Aviv, San Francisco",
+   "stipend": "$1,000+ compute credits + Claude Code + up to $5K conference travel per team",
+   "source": "heronsec.ai/researchfellowship",
+   "note": null
+  },
+  {
+   "programme": "Singapore AI Safety Fellowship (SASH)",
+   "dueIso": "2026-07-10",
+   "status": "closed",
+   "cohort": "Sep 21 – Dec 4, 2026 (3 months, in-person)",
+   "location": "Singapore",
+   "stipend": "S$5,600/mo (raised 2026-09-09, EP floor) + housing + travel + $30K USD compute",
+   "source": "aisafety.sg/programs/singapore-ai-safety-fellowship",
+   "note": null
+  },
+  {
+   "programme": "GovAI UK Winter Fellowship 2027 — Research Track",
+   "dueIso": "2026-07-12",
+   "status": "closed",
+   "cohort": "Jan 18–Apr 9, 2027 (3 mo)",
+   "location": "London, UK",
+   "stipend": "not listed",
+   "source": "governance.ai/post/winter-fellowship-2027-research-track",
+   "note": null
+  },
+  {
+   "programme": "GovAI UK Winter Fellowship 2027 — Applied Track",
+   "dueIso": "2026-07-12",
+   "status": "closed",
+   "cohort": "Jan 18–Apr 9, 2027",
+   "location": "London, UK",
+   "stipend": "not listed",
+   "source": "governance.ai/post/winter-fellowship-2027-applied-track",
+   "note": null
+  },
+  {
+   "programme": "GovAI DC Winter Fellowship 2027",
+   "dueIso": "2026-07-12",
+   "status": "closed",
+   "cohort": "Jan 18–Apr 9, 2027",
+   "location": "Washington DC",
+   "stipend": "not listed",
+   "source": "governance.ai/post/dc-winter-fellowship-2027",
+   "note": null
+  },
+  {
+   "programme": "AGI Governance Fellowship (Johns Hopkins SOGP)",
+   "dueIso": "2026-07-15",
+   "status": "closed",
+   "cohort": "Sep 8–25, 2026 (3 wks)",
+   "location": "Washington, DC (in-person only)",
+   "stipend": "travel + accommodation + meals funded",
+   "source": "sogp.jh.edu/agi-governance-fellowship",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Fellowship (Cape Town cohort)",
+   "dueIso": "2026-07-20",
+   "status": "closed",
+   "cohort": "Nov 2026 – Feb 2027 (3 mo, in-person)",
+   "location": "Cape Town, South Africa",
+   "stipend": "$3,000/mo + accommodation",
+   "source": "princint.ai/programs/fellowship",
+   "note": null
+  },
+  {
+   "programme": "AISC Research Incubator (Virtual Edition)",
+   "dueIso": "2026-07-24",
+   "status": "closed",
+   "cohort": "Aug 15–30, 2026 (16-day online)",
+   "location": "Remote/virtual",
+   "stipend": "unpaid",
+   "source": "aisafety.camp",
+   "note": null
+  },
+  {
+   "programme": "Anthropic Fellows Program, AI Safety",
+   "dueIso": "2026-07-26",
+   "status": "closed",
+   "cohort": "Cohort Nov 2, 2026 (4 months full-time); portal: bit.ly/afpsafety",
+   "location": "London / Ontario / SF / Remote (US, UK, CA)",
+   "stipend": "$3,850–$4,300/wk + $15K/mo compute (updated 2026-08-31 from aisafety.com/jobs aggregator; prior was $3,850/wk flat)",
+   "source": "greenhouse.io/anthropic/jobs/5183044008",
+   "note": null
+  },
+  {
+   "programme": "Iliad September 2026 Intensive",
+   "dueIso": "2026-07-27",
+   "status": "closed",
+   "cohort": "Sep 7–Oct 2, 2026 (4 wks)",
+   "location": "London, UK / LISA (in-person)",
+   "stipend": "$5,000 travel/housing total",
+   "source": "iliad.ac",
+   "note": null
+  },
+  {
+   "programme": "Fall 2026 Iliad Fellowship",
+   "dueIso": "2026-07-27",
+   "status": "closed",
+   "cohort": "Sep 7–Dec 4, 2026 (3 mo)",
+   "location": "London, UK / LISA (in-person)",
+   "stipend": "$6,000/mo travel/housing",
+   "source": "iliad.ac → princint.ai/programs/residency",
+   "note": null
+  },
+  {
+   "programme": "PIBBSS Research Residency (Iliad)",
+   "dueIso": "2026-07-27",
+   "status": "closed",
+   "cohort": "3 months (Sep–Dec)",
+   "location": "London, UK (LISA)",
+   "stipend": "$6,000/mo travel/housing",
+   "source": "princint.ai/programs/residency",
+   "note": null
+  },
+  {
+   "programme": "Law & AI Academic Fellowship",
+   "dueIso": "2026-07-31",
+   "status": "closed",
+   "cohort": "2 years (start up to Sep 2027)",
+   "location": "Washington DC / Cambridge UK / Remote (1 mo/yr in-person)",
+   "stipend": "$130,000/yr",
+   "source": "law-ai.org/career/academic-fellowship",
+   "note": null
+  },
+  {
+   "programme": "ARENA 9.0",
+   "dueIso": "2026-08-02",
+   "status": "closed",
+   "cohort": "Oct 5 – Nov 6, 2026 (4–5 wks; wk 1 optional NN-fundamentals review)",
+   "location": "London, UK / LISA (in-person)",
+   "stipend": "travel/accommodation covered",
+   "source": "arena.education/applications",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "Frontier AI Security Residency (FASR-2026)",
+   "dueIso": "2026-08-02",
+   "status": "closed",
+   "cohort": "Oct 12 – Dec 4, 2026 (8 weeks)",
+   "location": "Cambridge, UK (in-person)",
+   "stipend": "Competitive stipend (fully funded)",
+   "source": "securefrontier.ai",
+   "note": null
+  },
+  {
+   "programme": "AI Alignment Foundation Research Fellowship",
+   "dueIso": "2026-08-17",
+   "status": "closed",
+   "cohort": "Sep 8 – ~Nov 2026 (8 wks, full-time 40h/wk)",
+   "location": "Remote, Global (Demo Day LA — travel covered)",
+   "stipend": "$12,000 stipend + compute credits",
+   "source": "aialignmentfoundation.org/fellowship",
+   "note": null
+  },
+  {
+   "programme": "SPAR (Supervised Program for Alignment Research)",
+   "dueIso": "2026-08-18",
+   "status": "closed",
+   "cohort": "Sep 14–Dec 14, 2026 (~13 wks)",
+   "location": "remote",
+   "stipend": "no personal compensation; covers project expenses",
+   "source": "sparai.org",
+   "note": null
+  },
+  {
+   "programme": "Iliad October 2026 Intensive",
+   "dueIso": "2026-08-24",
+   "status": "closed",
+   "cohort": "Oct 5–30, 2026",
+   "location": "Berkeley, CA (in-person)",
+   "stipend": "$5,000 travel/housing total",
+   "source": "iliad.ac/intensive + LessWrong \"Announcing: Iliad's Fall 2026 Programs\" (2026-05-30)",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "MATS Winter 2027",
+   "dueIso": "2026-09-06",
+   "status": "closed",
+   "cohort": "Jan 19 – Apr 10, 2027 (12 wks + optional ext)",
+   "location": "Berkeley, CA + London, UK",
+   "stipend": "$1,600/wk = $19,200 total + $24,000 compute",
+   "source": "matsprogram.org/program/winter-2027",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "Pivotal Research Fellowship",
+   "dueIso": "2026-09-07",
+   "status": "closed",
+   "cohort": "Jan 18 – Apr 30, 2027 (15 wks, LISA London) — real, upcoming",
+   "location": "London, UK (LISA, in-person)",
+   "stipend": "£6,000–£8,000 stipend + travel + £2,400 housing (non-London) + meals + compute",
+   "source": "pivotal-research.org/fellowship · apply.pivotal-research.org",
+   "note": null
+  },
+  {
+   "programme": "Cambridge ERA:AI Winter 2027 Fellowship",
+   "dueIso": "2026-09-13",
+   "status": "closed",
+   "cohort": "Jan 18 – Mar 26, 2027 (10 wks)",
+   "location": "Cambridge, UK (in-person; remote only \"in some cases\")",
+   "stipend": "£10,000 stipend (housing comes out of it — ERA does NOT provide accommodation) + visa support + meals during working hou",
+   "source": "erafellowship.org/fellowship + /faq",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  }
+ ]
+}
