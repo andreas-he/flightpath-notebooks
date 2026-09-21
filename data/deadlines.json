@@ -1,17 +1,7 @@
 {
- "generatedAt": "2026-09-16T09:44:08.240Z",
+ "generatedAt": "2026-09-21T06:05:00.290Z",
  "count": 65,
  "deadlines": [
-  {
-   "programme": "LASR Labs Winter 2027",
-   "dueIso": "2026-09-20",
-   "status": "open",
-   "cohort": "Jan 11 – Apr 9, 2027 (13 wks; Week 0 = project evaluation + team matching)",
-   "location": "London, UK (in-person, LISA Office)",
-   "stipend": "£15,000 + food + office space + flights",
-   "source": "lasrlabs.org",
-   "note": "Stated in GMT — check your own offset."
-  },
   {
    "programme": "Iliad November 2026 Intensive",
    "dueIso": "2026-09-28",
@@ -648,9 +638,19 @@
    "status": "closed",
    "cohort": "Jan 18 – Mar 26, 2027 (10 wks)",
    "location": "Cambridge, UK (in-person; remote only \"in some cases\")",
-   "stipend": "£10,000 stipend (housing comes out of it — ERA does NOT provide accommodation) + visa support + meals during working hou",
-   "source": "erafellowship.org/fellowship + /faq",
+   "stipend": "£10,000 stipend (housing out of it) + visa support + meals + travel",
+   "source": "erafellowship.org/fellowship",
    "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "LASR Labs Winter 2027",
+   "dueIso": "2026-09-20",
+   "status": "closed",
+   "cohort": "Jan 11 – Apr 9, 2027 (13 wks; Week 0 = project evaluation + team matching)",
+   "location": "London, UK (in-person, LISA Office)",
+   "stipend": "£15,000 + food + office space + flights",
+   "source": "lasrlabs.org",
+   "note": "Stated in GMT — check your own offset."
   }
  ]
 }
