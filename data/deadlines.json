@@ -1,17 +1,7 @@
 {
- "generatedAt": "2026-09-21T06:05:00.290Z",
- "count": 65,
+ "generatedAt": "2026-10-05T06:03:12.247Z",
+ "count": 66,
  "deadlines": [
-  {
-   "programme": "Iliad November 2026 Intensive",
-   "dueIso": "2026-09-28",
-   "status": "open",
-   "cohort": "Nov 2–27, 2026",
-   "location": "London, UK / LISA (in-person)",
-   "stipend": "$5,000 travel/housing total",
-   "source": "iliad.ac/intensive + LessWrong \"Announcing: Iliad's Fall 2026 Programs\" (2026-05-30)",
-   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
-  },
   {
    "programme": "MATS Residency (NEW program — distinct from the fellowship)",
    "dueIso": "2026-10-31",
@@ -20,6 +10,16 @@
    "location": "London / Berkeley / Washington DC (hybrid, ≥⅓ in-person)",
    "stipend": "$155,000–$285,000/yr gross (salaried, not a stipend) + health/dental/vision/life, 401k or pension, 17–20d PTO, conferenc",
    "source": "matsprogram.org/residency + /residency/apply",
+   "note": null
+  },
+  {
+   "programme": "AI Safety Camp (AISC11)",
+   "dueIso": "2026-11-29",
+   "status": "open",
+   "cohort": "Jan 9–10 opening weekend; Jan 11 – Apr 18, 2027 (remote, weekly team meetings)",
+   "location": "remote (team-based)",
+   "stipend": "unpaid",
+   "source": "aisafety.camp (timeline read live 2026-09-22)",
    "note": null
   },
   {
@@ -116,9 +116,9 @@
    "programme": "LASR 2027 cycle",
    "dueIso": null,
    "status": "watching",
-   "cohort": "Jul–Oct 2027 (est.)",
+   "cohort": "Jun–Sep 2027 (confirmed 2026-09-28 from live page; was \"Jul–Oct 2027 est.\")",
    "location": "London, UK",
-   "stipend": "£11,000",
+   "stipend": "£15,000 (confirmed 2026-09-28: lasrlabs.org shows \"£15,000\") + food + office space + flights",
    "source": "lasrlabs.org",
    "note": null
   },
@@ -130,6 +130,16 @@
    "location": "Berkeley, CA (in-person)",
    "stipend": "not specified",
    "source": "constellation.org/programs/visiting-fellowship",
+   "note": null
+  },
+  {
+   "programme": "Generator Residency (Constellation/Kairos)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "~3 months (generalist AI safety ecosystem roles)",
+   "location": "Berkeley, CA (in-person)",
+   "stipend": "fully funded",
+   "source": "generatorresidency.org",
    "note": null
   },
   {
@@ -239,7 +249,7 @@
    "cohort": "Jan 18 – Mar 26, 2027 (est.)",
    "location": "Cambridge, UK (in-person; est.)",
    "stipend": "not published",
-   "source": "erafellowship.org/fellowship",
+   "source": "erafellowship.org/fellowship → aixbiosecurity.com",
    "note": null
   },
   {
@@ -260,16 +270,6 @@
    "location": "Cambridge, UK (hybrid)",
    "stipend": "unpaid; covers travel, accommodation, meals, compute ($2k+), Claude Max",
    "source": "caish.org/mars",
-   "note": null
-  },
-  {
-   "programme": "AI Safety Camp",
-   "dueIso": null,
-   "status": "watching",
-   "cohort": "Jan–Apr 2027 (~3 mo)",
-   "location": "remote (team-based)",
-   "stipend": "unpaid",
-   "source": "aisafety.camp",
    "note": null
   },
   {
@@ -651,6 +651,16 @@
    "stipend": "£15,000 + food + office space + flights",
    "source": "lasrlabs.org",
    "note": "Stated in GMT — check your own offset."
+  },
+  {
+   "programme": "Iliad November 2026 Intensive",
+   "dueIso": "2026-09-28",
+   "status": "closed",
+   "cohort": "Nov 2–27, 2026",
+   "location": "London, UK / LISA (in-person)",
+   "stipend": "$5,000 travel/housing total",
+   "source": "iliad.ac/intensive + LessWrong \"Announcing: Iliad's Fall 2026 Programs\" (2026-05-30)",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
   }
  ]
 }
