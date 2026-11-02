@@ -1,46 +1,16 @@
 {
- "generatedAt": "2026-10-26T07:08:28.197Z",
+ "generatedAt": "2026-11-02T07:05:05.322Z",
  "count": 91,
  "deadlines": [
   {
-   "programme": "AI Safety Camp (AISC12)",
-   "dueIso": "2026-10-26",
+   "programme": "BlueDot Technical AI Safety Project Sprint",
+   "dueIso": "2026-11-08",
    "status": "open",
-   "cohort": "Jan 9–10 opening weekend; Jan 11 – Apr 18, 2027 (remote, weekly team meetings)",
-   "location": "remote (team-based)",
-   "stipend": "unpaid",
-   "source": "aisafety.camp (timeline read live 2026-09-22)",
+   "cohort": "part-time, Nov 16 – Dec 20, 2026",
+   "location": "remote",
+   "stipend": "coaches: $250 per session (~5 h)",
+   "source": "https://web.miniextensions.com/2lQmY04m6DdfeGbIYgsG (via bluedot.org, logged in)",
    "note": null
-  },
-  {
-   "programme": "MATS Residency (NEW program — distinct from the fellowship)",
-   "dueIso": "2026-10-31",
-   "status": "open",
-   "cohort": "6–24 months; starts early 2027; next intake March 2027, deadline unknown",
-   "location": "London / Berkeley / Washington DC (hybrid, ≥⅓ in-person)",
-   "stipend": "$155,000–$285,000/yr gross (salaried, not a stipend) + health/dental/vision/life, 401k or pension, 17–20d PTO, conferenc",
-   "source": "matsprogram.org/residency + /residency/apply",
-   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
-  },
-  {
-   "programme": "Generator Residency (Constellation/Kairos)",
-   "dueIso": "2026-11-01",
-   "status": "open",
-   "cohort": "Jan 18 – Apr 9, 2027 (12 weeks); optional extension",
-   "location": "Berkeley, CA / Constellation (in-person)",
-   "stipend": "$8,500/mo; Embedded gross pay approximately comparable; travel/project support",
-   "source": "https://generatorresidency.org/",
-   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
-  },
-  {
-   "programme": "Pivotal Research Fellowship",
-   "dueIso": "2026-11-01",
-   "status": "open",
-   "cohort": "Jan 18 – Apr 30, 2027 (15 wks, LISA London)",
-   "location": "London, UK (LISA, in-person)",
-   "stipend": "£15,000–£18,000 (Senior £18,000) + £1,800/mo housing outside London",
-   "source": "pivotal-research.org/fellowship · apply.pivotal-research.org",
-   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
   },
   {
    "programme": "Constellation Founders Residency",
@@ -593,16 +563,6 @@
    "note": null
   },
   {
-   "programme": "BlueDot Technical AI Safety Project Sprint",
-   "dueIso": null,
-   "status": "watching",
-   "cohort": "unknown",
-   "location": "unknown",
-   "stipend": "unknown",
-   "source": "https://aisafety.com/jobs",
-   "note": null
-  },
-  {
    "programme": "ML4Good Founder Bootcamp",
    "dueIso": null,
    "status": "watching",
@@ -910,6 +870,46 @@
    "location": "London, UK / LISA (in-person)",
    "stipend": "$5,000 travel/housing total",
    "source": "iliad.ac/intensive + LessWrong \"Announcing: Iliad's Fall 2026 Programs\" (2026-05-30)",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "AI Safety Camp (AISC12)",
+   "dueIso": "2026-10-26",
+   "status": "closed",
+   "cohort": "Jan 9–10 opening weekend; Jan 11 – Apr 18, 2027 (remote, weekly team meetings)",
+   "location": "remote (team-based)",
+   "stipend": "unpaid",
+   "source": "aisafety.camp (timeline read live 2026-09-22)",
+   "note": null
+  },
+  {
+   "programme": "MATS Residency (NEW program — distinct from the fellowship)",
+   "dueIso": "2026-10-31",
+   "status": "closed",
+   "cohort": "6–24 months; starts early 2027; next intake March 2027, deadline unknown",
+   "location": "London / Berkeley / Washington DC (hybrid, ≥⅓ in-person)",
+   "stipend": "$155,000–$285,000/yr gross (salaried, not a stipend) + health/dental/vision/life, 401k or pension, 17–20d PTO, conferenc",
+   "source": "matsprogram.org/residency + /residency/apply",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "Generator Residency (Constellation/Kairos)",
+   "dueIso": "2026-11-01",
+   "status": "closed",
+   "cohort": "Jan 18 – Apr 9, 2027 (12 weeks); optional extension",
+   "location": "Berkeley, CA / Constellation (in-person)",
+   "stipend": "$8,500/mo; Embedded gross pay approximately comparable; travel/project support",
+   "source": "https://generatorresidency.org/",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
+  {
+   "programme": "Pivotal Research Fellowship",
+   "dueIso": "2026-11-01",
+   "status": "closed",
+   "cohort": "Jan 18 – Apr 30, 2027 (15 wks, LISA London)",
+   "location": "London, UK (LISA, in-person)",
+   "stipend": "£15,000–£18,000 (Senior £18,000) + £1,800/mo housing outside London",
+   "source": "pivotal-research.org/fellowship · apply.pivotal-research.org",
    "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
   }
  ]
