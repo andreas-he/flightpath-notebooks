@@ -1,17 +1,7 @@
 {
- "generatedAt": "2026-11-02T07:05:05.322Z",
+ "generatedAt": "2026-11-09T07:05:32.789Z",
  "count": 91,
  "deadlines": [
-  {
-   "programme": "BlueDot Technical AI Safety Project Sprint",
-   "dueIso": "2026-11-08",
-   "status": "open",
-   "cohort": "part-time, Nov 16 – Dec 20, 2026",
-   "location": "remote",
-   "stipend": "coaches: $250 per session (~5 h)",
-   "source": "https://web.miniextensions.com/2lQmY04m6DdfeGbIYgsG (via bluedot.org, logged in)",
-   "note": null
-  },
   {
    "programme": "Constellation Founders Residency",
    "dueIso": "2026-11-15",
@@ -910,7 +900,17 @@
    "location": "London, UK (LISA, in-person)",
    "stipend": "£15,000–£18,000 (Senior £18,000) + £1,800/mo housing outside London",
    "source": "pivotal-research.org/fellowship · apply.pivotal-research.org",
-   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+   "note": null
+  },
+  {
+   "programme": "BlueDot Technical AI Safety Project Sprint",
+   "dueIso": "2026-11-08",
+   "status": "closed",
+   "cohort": "part-time, Nov 16 – Dec 20, 2026",
+   "location": "remote",
+   "stipend": "coaches: $250 per session (~5 h)",
+   "source": "https://web.miniextensions.com/2lQmY04m6DdfeGbIYgsG (via bluedot.org, logged in)",
+   "note": null
   }
  ]
 }
