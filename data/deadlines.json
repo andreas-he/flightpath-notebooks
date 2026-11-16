@@ -1,15 +1,25 @@
 {
- "generatedAt": "2026-11-09T07:05:32.789Z",
+ "generatedAt": "2026-11-16T07:48:33.240Z",
  "count": 91,
  "deadlines": [
   {
-   "programme": "Constellation Founders Residency",
-   "dueIso": "2026-11-15",
+   "programme": "SPAR (Supervised Program for Alignment Research)",
+   "dueIso": "2026-11-16",
    "status": "open",
-   "cohort": "Jan 11 – Jul 2, 2027 (6 months); acceptances early December",
-   "location": "Berkeley, CA (in-person, ≥2–3 days/week)",
-   "stipend": "none; free, no equity; teams can be connected to $250k+ funders",
-   "source": "https://constellation.org/programs/founders",
+   "cohort": "Spring project period Feb 8 – May 10, 2027; decisions Feb 1; Demo Day May 15",
+   "location": "remote",
+   "stipend": "no personal compensation; covers project expenses",
+   "source": "sparai.org",
+   "note": null
+  },
+  {
+   "programme": "AI Safety Camp (AISC12)",
+   "dueIso": "2026-11-16",
+   "status": "open",
+   "cohort": "Jan 9–10 opening weekend; Jan 12 – Apr 23, 2027 (remote, weekly team meetings)",
+   "location": "remote (team-based)",
+   "stipend": "unpaid",
+   "source": "aisafety.camp (timeline read live 2026-09-22)",
    "note": null
   },
   {
@@ -230,16 +240,6 @@
    "location": "Brussels, Belgium (in-person)",
    "stipend": "not listed",
    "source": "talosnetwork.org/policy-leaders-programme",
-   "note": null
-  },
-  {
-   "programme": "SPAR (Supervised Program for Alignment Research)",
-   "dueIso": null,
-   "status": "watching",
-   "cohort": "next dates unknown; Fall Sep 14–Dec 14, 2026 closed",
-   "location": "remote",
-   "stipend": "no personal compensation; covers project expenses",
-   "source": "sparai.org",
    "note": null
   },
   {
@@ -863,16 +863,6 @@
    "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
   },
   {
-   "programme": "AI Safety Camp (AISC12)",
-   "dueIso": "2026-10-26",
-   "status": "closed",
-   "cohort": "Jan 9–10 opening weekend; Jan 11 – Apr 18, 2027 (remote, weekly team meetings)",
-   "location": "remote (team-based)",
-   "stipend": "unpaid",
-   "source": "aisafety.camp (timeline read live 2026-09-22)",
-   "note": null
-  },
-  {
    "programme": "MATS Residency (NEW program — distinct from the fellowship)",
    "dueIso": "2026-10-31",
    "status": "closed",
@@ -910,6 +900,16 @@
    "location": "remote",
    "stipend": "coaches: $250 per session (~5 h)",
    "source": "https://web.miniextensions.com/2lQmY04m6DdfeGbIYgsG (via bluedot.org, logged in)",
+   "note": null
+  },
+  {
+   "programme": "Constellation Founders Residency",
+   "dueIso": "2026-11-15",
+   "status": "closed",
+   "cohort": "Jan 11 – Jul 2, 2027 (6 months); acceptances early December",
+   "location": "Berkeley, CA (in-person, ≥2–3 days/week)",
+   "stipend": "none; free, no equity; teams can be connected to $250k+ funders",
+   "source": "https://constellation.org/programs/founders",
    "note": null
   }
  ]
