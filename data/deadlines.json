@@ -1,27 +1,7 @@
 {
- "generatedAt": "2026-11-16T07:48:33.240Z",
+ "generatedAt": "2026-11-23T17:12:38.825Z",
  "count": 91,
  "deadlines": [
-  {
-   "programme": "SPAR (Supervised Program for Alignment Research)",
-   "dueIso": "2026-11-16",
-   "status": "open",
-   "cohort": "Spring project period Feb 8 – May 10, 2027; decisions Feb 1; Demo Day May 15",
-   "location": "remote",
-   "stipend": "no personal compensation; covers project expenses",
-   "source": "sparai.org",
-   "note": null
-  },
-  {
-   "programme": "AI Safety Camp (AISC12)",
-   "dueIso": "2026-11-16",
-   "status": "open",
-   "cohort": "Jan 9–10 opening weekend; Jan 12 – Apr 23, 2027 (remote, weekly team meetings)",
-   "location": "remote (team-based)",
-   "stipend": "unpaid",
-   "source": "aisafety.camp (timeline read live 2026-09-22)",
-   "note": null
-  },
   {
    "programme": "MAISI January 2027 semester",
    "dueIso": "2027-01-01",
@@ -910,6 +890,26 @@
    "location": "Berkeley, CA (in-person, ≥2–3 days/week)",
    "stipend": "none; free, no equity; teams can be connected to $250k+ funders",
    "source": "https://constellation.org/programs/founders",
+   "note": null
+  },
+  {
+   "programme": "SPAR (Supervised Program for Alignment Research)",
+   "dueIso": "2026-11-16",
+   "status": "closed",
+   "cohort": "Spring project period Feb 8 – May 10, 2027; decisions Feb 1; Demo Day May 15",
+   "location": "remote",
+   "stipend": "no personal compensation; covers project expenses",
+   "source": "sparai.org",
+   "note": null
+  },
+  {
+   "programme": "AI Safety Camp (AISC12)",
+   "dueIso": "2026-11-16",
+   "status": "closed",
+   "cohort": "Jan 9–10 opening weekend; Jan 12 – Apr 23, 2027 (remote, weekly team meetings)",
+   "location": "remote (team-based)",
+   "stipend": "unpaid",
+   "source": "aisafety.camp (timeline read live 2026-09-22)",
    "note": null
   }
  ]
