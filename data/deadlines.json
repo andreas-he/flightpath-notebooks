@@ -1,7 +1,17 @@
 {
- "generatedAt": "2026-11-23T17:12:38.825Z",
- "count": 91,
+ "generatedAt": "2026-11-23T17:12:53.451Z",
+ "count": 93,
  "deadlines": [
+  {
+   "programme": "ARENA 10.0",
+   "dueIso": "2026-12-06",
+   "status": "open",
+   "cohort": "Mar 1 – Apr 2, 2027 (5 wks)",
+   "location": "London, UK / LISA, Shoreditch (in-person)",
+   "stipend": "travel, visas, accommodation and meals covered",
+   "source": "https://arena.education/ · https://www.lesswrong.com/posts/AqeCfBTi42vu4j3CW/arena-10-0-call-for-applicants",
+   "note": "Anywhere-on-Earth — you have until it is still that date somewhere."
+  },
   {
    "programme": "MAISI January 2027 semester",
    "dueIso": "2027-01-01",
@@ -50,6 +60,16 @@
    "location": "Berkeley / remote (historical 2026 terms)",
    "stipend": "unknown for next cycle",
    "source": "https://alignment.openai.com/safety-fellowship/",
+   "note": null
+  },
+  {
+   "programme": "SAIGE Residential Fellowship (NEW program — distinct from the Incubator)",
+   "dueIso": null,
+   "status": "watching",
+   "cohort": "12 weeks from March 2027",
+   "location": "Tübingen (technical, with ELLIS Institute) / Berlin (governance, with Hertie Sch",
+   "stipend": "€3,000/mo + compute / expense support, no fees",
+   "source": "https://safeaigermany.org/programmes/residential-fellowship/",
    "note": null
   },
   {
